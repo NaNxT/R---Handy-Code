@@ -1,3 +1,3 @@
 # R---Handy-Code
 
-This repo stored various of R code
+This repo is delicated to R code which is useful for my work.
