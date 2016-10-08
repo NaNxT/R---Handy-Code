@@ -1,3 +1,3 @@
 # R---Handy-Code
 
-This repo is delicated to R code which is useful for my work.
+This repo is delicated to R code which I created it to get my jobs done.
